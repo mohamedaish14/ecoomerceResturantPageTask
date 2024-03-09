@@ -262,7 +262,14 @@ body {
   top: 40%;
 }
 
+.item{
+  cursor: pointer;
+  text-decoration: none;
 
+}
+.item:hover{
+  background-color: #e4ddddd0;
+}
 
 .food-menu-heading {
   text-align: center;
